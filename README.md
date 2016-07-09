@@ -7,8 +7,8 @@
 简要说明：
 
 - 频次：周刊
-- 时间：每周五（上午）发出
-- 栏目设置：#新鲜事 #干货集 #大集市 #爱分享 #自留地 等等好玩有趣有料~
+- 时间：每周五发出
+- 栏目设置：#大集市 #极客视频 #极客Wiki 等等好玩有趣有料~
 - 谁在操刀：一群爱分享的技术宅们
 
 输入你常用的邮箱订阅（注意：订阅后需要去邮箱里点击确认），成功后会收到一封有`福利`的欢迎信，等你来~
@@ -23,7 +23,7 @@
 
 **扫描二维码即可加入，定时推送周刊和优质技术文章**
 
-![](images/258.jpg)
+![](images/weixin.jpg)
 
 ## 欢迎投稿
 
@@ -35,14 +35,6 @@
 2. Submit，等待主编确认
 
 参考例子请看这里：<https://github.com/jikexueyuanwiki/geek-weekly-newsletter/issues/1>
-
-Labels 分类简介：
-
-   - 新鲜事——业内（互联网IT技术）一周大事件汇总
-   - 干货集：IT技术干货汇聚（类似开发者头条，不要求时间上最新，力求实用）
-   - 大集市：乱七八糟的一些有价值的东西
-   - 爱分享：用户原创或者分享的有价值内容，包括视频、博客、教程等
-   - 自留地：极客学院相关课程（包括视频、Wiki、问答、Download 等）、产品更新及相关活动的推荐
 
 ### 2.非 GitHub 用户投稿
 
@@ -70,9 +62,25 @@ Labels 分类简介：
 |[极客周刊 第八期](issues-8/newsletter-eight.md)|2016年3月6～3月11日|
 |[极客周刊 第九期](issues-9/newsletter-nine.md)|2016年3月13～3月18日|
 |[极客周刊 第十期](issues-10/newsletter-ten.md)|2016年3月20～3月25日|
+|[极客周刊 第十一期](issues-11/newsletter-eleven.md)|2016年3月27～4月1日|
+|[极客周刊 第十二期](issues-12/newsletter-twelve.md)|2016年4月3～4月8日|
+|[极客周刊 第十三期](newsletter-thirteen.md)|2016年5月1～5月4日|
+|[极客周刊 第十四期](newsletter-fourteen.md)|2016年5月8～5月13日|
+|[极客周刊 第十五期](newsletter-fifteen.md)|2016年5月15～5月20日|
+|[极客周刊 第十六期](newsletter-sixteen.md)|2016年5月22～5月27日|
+|[极客周刊 第十七期](newsletter-seventeen.md)|2016年5月29～6月3日|
+|[极客周刊 第十八期](newsletter-eighteen.md)|2016年6月13～6月17日|
+|[极客周刊 第十九期](newsletter-ninteen.md)|2016年6月19～6月24日|
+|[极客周刊 第二十期](newsletter-twenty.md)|2016年6月26～7月1日|
+|[极客周刊 第二十一期](newsletter-twenty-one.md)|2016年7月3～7月8日|
 |持续更新ing......||
 
 ## 主编及贡献者
 
+- [极客学院wiki](http://wiki.jikexueyuan.com)
 - [zhangyushu](https://github.com/zhangyushu)
 - [dongxuejian](https://github.com/YDMDFGOFIGHTING)
+
+## reference
+
+[website](reference.md)

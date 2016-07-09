@@ -2,6 +2,7 @@
 
 ### 技术社区
 
+- [FED](http://taobaofed.org/)
 - [花瓣-设计师](http://huaban.com/)
 - [PMCAFF](http://www.pmcaff.com/)
 - [Github 新项目汇报](http://www.open-open.com/github/)
@@ -32,6 +33,8 @@
 - [Web资源网](http://webres.wang/)
 - [设计师网址导航](http://www.nav80.com/)
 - [Rss-IT人](https://github.com/Gracker/Rss-IT)
+- [关注黑客与极客](http://www.freebuf.com/)
+- [yivian](http://yivian.com/)
 
 ### 工具
 
@@ -45,6 +48,7 @@
 
 ### 个人博客
 
+- [精彩博客集合](https://github.com/hacke2/hacke2.github.io/issues/2)
 - [wustrive博客](http://wustrive2008.github.io/)
 - [月光博客](http://www.williamlong.info/)
 - [I code it](http://icodeit.org/)
@@ -58,6 +62,8 @@
 - [学而学而时嘻之](http://www.geekonomics10000.com/)
 - [Android开发大牛博客](http://geek.csdn.net/news/detail/56179)
 - [CYBERMKD](http://www.cybermkd.com/)
+- [专注于 JavaScript 全栈开发](http://www.longestory.com/)
+- [beforweb](http://www.beforweb.com/)
 
 ### 各技术周刊
 
@@ -65,6 +71,7 @@
 - [奇舞周刊](http://www.75team.com/weekly/)
 - [PM周刊](http://wiki.jikexueyuan.com/project/pmweekly/)
 - [蠎周刊](http://weekly.pychina.org/)
+- [编程狂人](http://www.tuicool.com/mags/)
 
 ### 头条类
 
@@ -72,6 +79,7 @@
 - [极客头条](http://geek.csdn.net/)
 - [技术头条](http://blogread.cn/news/)
 - [今日头条科技](http://toutiao.com/news_tech/)
+- [科技大事件](http://d.youth.cn/tech_focus/)
 
 ### 国外免费书籍
 
@@ -81,3 +89,4 @@
 - [直播编程](https://www.livecoding.tv)
 - [medium](https://medium.com)
 - [IT 外文](http://www.vaikan.com/)
+- [hacks.mozilla](https://hacks.mozilla.org/)
